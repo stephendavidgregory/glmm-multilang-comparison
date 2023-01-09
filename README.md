@@ -9,5 +9,5 @@ Languages include:
 -   [nimble](https://r-nimble.org/)
 -   [nimble HMC (with and without Laplace approximation)](https://r-nimble.org/ad-beta)
 -   [stan (alone and via brms)](https://mc-stan.org/)
--   [julia](https://juliastats.org/MixedModels.jl/dev/) - can we access the GPU?
+-   [julia](https://juliastats.org/MixedModels.jl/dev/) - [can we access the GPU](https://juliapackages.com/p/advancedhmc)?
 -   [tmb](https://kaskr.github.io/adcomp/)
